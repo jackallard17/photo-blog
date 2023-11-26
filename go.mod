@@ -1,7 +1,5 @@
-module github.com/nicokaiser/hugo-gallery-starter
+module jackallard17/photo-blog
 
-go 1.20
+go 1.21.4
 
-require github.com/nicokaiser/hugo-theme-gallery v0.0.0-20231122110353-19366ecba645 // indirect
-
-replace github.com/nicokaiser/hugo-theme-gallery => ../
+require github.com/nicokaiser/hugo-theme-gallery v0.0.0-20231122113845-52573f5990d6 // indirect
