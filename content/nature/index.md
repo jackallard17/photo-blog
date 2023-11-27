@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood
-description: Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
+description: Testing! This one is from the fall of 2022, on a backpacking trip with my friend Vinny on a section of the Pacific Crest Trail.
 featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
 weight: 3
 sort_by: Name # Exif.Date
