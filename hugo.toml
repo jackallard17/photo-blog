@@ -1,10 +1,9 @@
-title = "Jack Allard Photo Gallery"
+title = "Photos by Jack Allard"
 languageCode = "en-us"
-copyright = "© Jack Allard"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "America/Los_Angeles"
 theme = ["github.com/nicokaiser/hugo-theme-gallery"]
 timeout = 1000
 
@@ -57,6 +56,6 @@ timeout = 1000
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "Source Code"
+  url = "https://github.com/jackallard17/photo-blog"
   weight = 3
