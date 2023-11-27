@@ -1,6 +1,6 @@
-title = "Gallery"
+title = "Jack Allard Photo Gallery"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "© Jack Allard"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -14,7 +14,7 @@ timeout = 1000
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "Jack Allard"
 
 [outputs]
   page = ["HTML"]
