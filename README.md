@@ -1,10 +1,3 @@
-# Example site for hugo-theme-gallery
+# Source code for my photo blog
 
-## Installation
-
-```
-hugo mod get
-hugo mod npm pack
-npm install
-./pull-images.sh
-```
+Created using [Nico Kaiser's Gallery theme](https://github.com/nicokaiser/hugo-theme-gallery) for Hugo
