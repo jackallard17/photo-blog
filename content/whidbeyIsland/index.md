@@ -4,6 +4,6 @@ description: A beautiful Sun-day trip! After waking up late, we hopped in the ca
 featured_image: DSCF4838.JPG
 weight: 3
 sort_by: Exif.Date
-sort_order: desc
+sort_order: asc
 date: 2024-02-11
 ---
