@@ -4,7 +4,7 @@ disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "America/Los_Angeles"
-theme = ["github.com/nicokaiser/hugo-theme-gallery"]
+theme = ["github.com/nicokaiser/hugo-theme-gallery/v4"]
 timeout = 1000
 
 [params]
